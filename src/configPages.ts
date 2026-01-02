@@ -151,7 +151,7 @@ export const configPages = {
                 },
                 worksheetTabName: {
                     type: "string",
-                    defaultValue: "Raw Deals",
+                    defaultValue: "Clean",
                 },
                 hubspotPrivateAppToken: {
                     type: "string",
